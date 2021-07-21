@@ -1,3 +1,8 @@
+xserver-xorg-video-fbturbo (1.20210721~105411) unstable; urgency=medium
+
+  * Rebuild for elbe
+
+ -- Zhi Han <z.han@kunbus.com>  Wed, 21 Jul 2021 10:54:11 +0200
 xserver-xorg-video-fbturbo (1.20190107~114053) unstable; urgency=medium
 
   * Rebuild for buster
